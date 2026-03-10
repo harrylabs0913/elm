@@ -1,5 +1,5 @@
 ---
-name: elm
+name: elm-ec
 description: "CLI tool for Ele.me food delivery platform - search restaurants, find coupons, and track delivery info"
 ---
 
